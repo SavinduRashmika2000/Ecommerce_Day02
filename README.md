@@ -35,7 +35,7 @@ lk.ac.vau.fas.ict.Controller
    - `http://localhost:8080/app/name` → Returns: **My name is SpringBoot**
 
 
-  - `http://localhost:8080/student/myname` → Returns: **My name is Isul**
+  - `http://localhost:8080/student/myname` → Returns: **My name is Savindu**
     
   
 
